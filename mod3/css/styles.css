@@ -19,6 +19,10 @@
     font-size: 1.2em;
 }
 
+.navbar-brand a:hover {
+    text-decoration: none;
+}
+
 #collapsable-nav {
     padding: 0;
     background: #b55d5d;
